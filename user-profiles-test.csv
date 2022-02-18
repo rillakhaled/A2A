@@ -1,0 +1,289 @@
+,address,birthdate,company,current_location,job,mail,name,religion,residence,sex,username,website
+0,"H.No. 040, Dave Road, Shivpuri-768439",1988-10-18,Chacko-Keer,"(Decimal('-15.9484835'), Decimal('174.578849'))","Development worker, international aid",arnavbarad@hotmail.com,Stuvan Gera,Christianity,"66, Anand Path, Chennai 001095",F,lbehl,"['https://www.malhotra.info/', 'https://www.edwin-kalita.com/']"
+1,"70/919, Dara Ganj
+Sambhal-394213",1956-08-04,Balakrishnan-Gola,"(Decimal('77.9751155'), Decimal('-167.291766'))",Quality manager,purab79@yahoo.com,Tara Goel,Sikhism,"26/561
+Kadakia Ganj, Vellore 612542",M,rcherian,['http://www.gulati-karnik.com/']
+2,"079, Bahri
+Rampur-822238",2017-12-19,Chand-Gade,"(Decimal('-22.548679'), Decimal('163.517057'))",Theatre director,aryaprerak@hotmail.com,Shlok Thaker,Buddhism,"68/236, Dutt Circle
+Kirari Suleman Nagar 089072",M,ibalan,"['http://www.sawhney.com/', 'http://www.johal.info/', 'http://ravi-loke.net/', 'https://www.tank.com/']"
+3,"38/167, Magar, Junagadh 351363",2008-03-04,"Setty, Yadav and Khatri","(Decimal('26.5497815'), Decimal('117.361690'))","Sound technician, broadcasting/film/video",ukoshy@yahoo.com,Samaira Mahajan,Buddhism,"77/25, Kar Chowk, Mathura-726687",F,mchakraborty,"['http://www.sule.com/', 'https://www.kumar.biz/']"
+4,"33/016, Dhar Ganj, Amaravati 716848",1990-10-30,Shere Group,"(Decimal('6.576625'), Decimal('-69.653182'))","Engineer, structural",sahotafateh@yahoo.com,Lavanya Sengupta,Sikhism,"85/15
+Mand Ganj
+Mumbai-699860",M,hazel71,['http://www.borra-luthra.com/']
+5,"15/048
+Bose Zila, Haridwar 223011",1930-03-22,"Bal, Wable and Suresh","(Decimal('65.7781785'), Decimal('17.938277'))",Communications engineer,gbaral@yahoo.com,Vritika Brar,Jainism,"13/871
+Lalla Ganj, Rajahmundry-237642",M,aradhya09,"['https://mani-raju.com/', 'http://choudhry-ghosh.com/', 'https://gera.info/', 'http://sangha.com/']"
+6,"H.No. 64
+Chander Chowk
+Nagercoil-603765",1984-05-24,"Chand, Deo and Subramaniam","(Decimal('-17.3818215'), Decimal('176.946819'))",Adult nurse,anvi94@yahoo.com,Stuvan Saran,Hinduism,"83/63, Sheth Zila
+Ramgarh-379921",F,yadavvardaniya,"['https://www.dara-batra.biz/', 'https://ravel-bava.org/']"
+7,"H.No. 64
+Chaudhuri Marg
+Cuttack 935923",2014-08-18,Shah-Deep,"(Decimal('-20.8205305'), Decimal('-14.269545'))","Therapist, speech and language",eva18@gmail.com,Navya Dutta,Islam,"111, Biswas Marg
+Etawah 326384",F,hazelraja,['http://garde.com/']
+8,"H.No. 284, Biswas Road
+Mangalore 680427",2000-01-17,Joshi-Rattan,"(Decimal('17.2071175'), Decimal('-166.035537'))",Animal nutritionist,rattaakarsh@yahoo.com,Ira Krishnamurthy,Islam,"795
+Sani, Tinsukia 995712",F,skhare,"['https://www.batta.com/', 'https://kibe.org/', 'https://chandran.biz/', 'http://gala.com/']"
+9,"H.No. 360, Bose Chowk
+Kurnool 413557",1986-05-12,"Dalal, Lala and Jha","(Decimal('52.271380'), Decimal('46.623541'))","Surveyor, land/geomatics",madansamiha@hotmail.com,Khushi Sarkar,Sikhism,"06/872, Shah Marg, Chittoor 674165",M,handra,"['http://www.dass-bhardwaj.biz/', 'http://bakshi.com/', 'https://bail-dash.com/']"
+10,"21/12, Sachar Nagar
+Bhiwandi 876675",1944-01-18,Bhasin-Edwin,"(Decimal('26.085219'), Decimal('-25.771267'))",Careers adviser,shankarkavya@yahoo.com,Manjari Anne,Buddhism,"15/73, Amble Circle
+Proddatur 094042",F,baradveer,['http://halder.org/']
+11,"H.No. 83, Bir Marg
+Kota-515409",1918-03-14,Dugar PLC,"(Decimal('-5.6003755'), Decimal('-162.326576'))",Emergency planning/management officer,mahika79@yahoo.com,Advika Jha,Buddhism,"H.No. 049, Behl Circle
+Mirzapur 599376",M,heersawhney,"['https://www.sha.info/', 'https://www.khatri-contractor.biz/', 'https://kuruvilla-bera.com/']"
+12,"088, Bava Road
+Delhi 644276",1952-09-14,Vasa-Chaudry,"(Decimal('-46.7639235'), Decimal('39.580982'))",Travel agency manager,sara48@hotmail.com,Indrans Raja,Buddhism,"20, Sundaram Marg
+Chandrapur 549927",M,ibutala,"['https://sahota-sundaram.com/', 'http://baral.net/']"
+13,"H.No. 556, Chokshi Road, Eluru 822067",1933-07-23,Mall PLC,"(Decimal('-38.0715415'), Decimal('-162.508097'))",Film/video editor,sainijivin@hotmail.com,Oorja Buch,Other,"45/10
+Lall Path
+Kanpur 789253",F,hsandal,"['http://lalla-rajagopalan.com/', 'https://www.bhardwaj.com/', 'https://www.bhat-ratti.net/']"
+14,"68
+Chaudhari Street
+Davanagere 778310",2013-07-06,"Sandal, Kale and Sura","(Decimal('-25.0144065'), Decimal('-46.040250'))",Paediatric nurse,dkapoor@hotmail.com,Veer Verma,Hinduism,"12/621
+Sodhi Zila
+Sri Ganganagar 619239",M,shethzain,"['http://www.ray.com/', 'http://www.batta.com/', 'https://www.khatri.com/']"
+15,"66/91, Seth Circle, Shimoga 616854",1976-06-03,"Kuruvilla, Mandal and Varghese","(Decimal('78.692249'), Decimal('126.011065'))",Environmental manager,sursara@gmail.com,Indrans Dalal,Jainism,"46/669, Dixit Chowk
+Amroha 442986",F,goleadira,"['https://www.warrior.org/', 'http://basak.com/', 'https://www.zachariah-saran.net/', 'http://www.solanki-golla.com/']"
+16,"91, Sankar Circle, Navi Mumbai-964895",1953-03-19,"Borah, Rattan and Dugar","(Decimal('18.571668'), Decimal('-83.490223'))",Media planner,jchahal@gmail.com,Kavya Hayre,Islam,"76, Bedi
+Jodhpur-191468",M,oghose,['https://www.deshpande.com/']
+17,"65
+Jain Ganj
+Ongole-639186",1995-09-26,Bansal-Sangha,"(Decimal('-26.2806975'), Decimal('108.285226'))",Ophthalmologist,mirayakhurana@hotmail.com,Vihaan Bhat,Hinduism,"139, Dugar Chowk, Udupi 486627",M,amannan,"['http://www.rajagopalan.com/', 'http://www.sodhi.com/']"
+18,"508
+Atwal Road, Danapur 266643",2018-08-15,Sahota-Kibe,"(Decimal('0.8245055'), Decimal('132.147118'))","Engineer, production",piya94@gmail.com,Hunar Chanda,Jainism,"87/87
+Jha Zila
+Nagaon-660575",M,sankarandivij,['http://www.andra-dani.biz/']
+19,"03/78
+Comar Circle, Serampore 637071",1973-12-19,"Sahota, Sen and Sura","(Decimal('35.279589'), Decimal('23.659296'))",Chief Technology Officer,lakshaydhawan@hotmail.com,Veer Sinha,Other,"75/30
+Ravel Nagar
+Jehanabad-984965",M,deotanya,"['http://dara.org/', 'https://comar.net/']"
+20,"272, Gola Zila, Etawah 790968",1981-09-09,"Srinivas, Ramachandran and Korpal","(Decimal('28.4628665'), Decimal('50.659225'))",Armed forces operational officer,chardishani@gmail.com,Taimur Hayre,Jainism,"121, Sridhar
+Nellore 037982",F,khalsajayant,"['https://deshmukh-jaggi.info/', 'https://www.shenoy-keer.info/', 'https://chander.info/', 'http://www.rana.biz/']"
+21,"180, Chhabra Road
+Sambhal-419332",1993-05-09,Vyas-Dara,"(Decimal('-13.9533435'), Decimal('134.013669'))","Geologist, wellsite",dverma@gmail.com,Taran Krishna,Sikhism,"025
+Tiwari Zila, North Dumdum 134004",F,wgoswami,"['https://bala.com/', 'https://saha.com/', 'http://sane.com/', 'http://swaminathan-sunder.net/']"
+22,"H.No. 04
+Taneja Circle, Imphal-837831",1975-03-29,Kannan LLC,"(Decimal('89.132102'), Decimal('-79.411153'))",Chiropractor,vardaniya06@hotmail.com,Biju Kale,Christianity,"67/78
+Chanda Circle, Moradabad 579747",F,qandra,"['https://www.sachdeva-sethi.com/', 'https://varma-ratti.info/', 'http://www.kaur.com/']"
+23,"12/829
+Kari Ganj
+Ahmednagar-634510",2008-04-08,"Bhatia, Som and Viswanathan","(Decimal('-53.8201275'), Decimal('-31.815215'))",Commercial horticulturist,mannat12@gmail.com,Stuvan Chacko,Christianity,"97
+Kulkarni
+Aurangabad 244863",M,preraksoni,"['https://www.sane-jani.info/', 'https://www.sem.com/', 'http://warrior.com/', 'http://www.khanna-bora.info/']"
+24,"H.No. 96, Mammen Marg, Ramgarh-344394",1941-09-27,Soman Group,"(Decimal('-66.2128085'), Decimal('104.328193'))","Embryologist, clinical",dayalcharvi@gmail.com,Advik Sha,Sikhism,"53/084
+Sehgal Circle, Srikakulam-786078",F,nitya12,"['https://chhabra-jha.com/', 'https://kala.com/', 'https://www.khare-dass.info/', 'http://sethi.com/']"
+25,"422, Dara Marg
+Kulti-739574",1950-10-21,Devi-Khanna,"(Decimal('-57.172260'), Decimal('145.898154'))",Video editor,gbhavsar@yahoo.com,Prerak Manne,Other,"875
+Dora Street, Firozabad 635691",F,samarkarnik,"['http://warrior-raja.info/', 'https://thakkar.com/', 'https://www.kant-soman.net/', 'http://www.buch.com/']"
+26,"61/338, Master Nagar, Dehri 257011",2004-06-10,Rajan-Date,"(Decimal('-17.589015'), Decimal('-118.649551'))",Chartered management accountant,bansalehsaan@hotmail.com,Alisha Mane,Islam,"H.No. 921
+Chakraborty Road
+Alappuzha 076127",F,oorja89,"['https://bakshi-hora.info/', 'http://www.sastry-sahota.com/', 'https://www.virk.net/']"
+27,"49, Reddy Circle
+Bhopal 770598",1982-05-30,"Barman, Salvi and Wable","(Decimal('5.892414'), Decimal('162.084524'))",General practice doctor,akapoor@hotmail.com,Kismat Bora,Sikhism,"H.No. 811
+Mann Road, Sultan Pur Majra 659764",M,ymallick,['http://www.madan-chander.biz/']
+28,"H.No. 621
+Arya, Gulbarga-067129",2016-10-02,Sidhu-Gour,"(Decimal('76.6918035'), Decimal('-68.318793'))","Scientist, research (maths)",vorazeeshan@gmail.com,Zeeshan Sarna,Buddhism,"H.No. 78, Sachdeva Zila, Rourkela-205520",F,zghosh,"['https://boase.com/', 'https://varghese.com/', 'https://www.gala-kadakia.com/', 'http://ravi.com/']"
+29,"32/56, Banik Circle
+Dewas-722225",1935-11-25,Sethi-Mammen,"(Decimal('-24.570432'), Decimal('175.314982'))","Lighting technician, broadcasting/film/video",nakul57@yahoo.com,Ishaan Khosla,Jainism,"H.No. 083, Krishnamurthy Marg, Haridwar-088697",F,vsharma,"['http://singh.info/', 'http://kuruvilla-buch.org/', 'http://saraf.com/']"
+30,"791
+Gaba Ganj
+Silchar-648988",1949-05-18,"Krishna, Swamy and Singhal","(Decimal('3.041792'), Decimal('-107.857597'))",Water engineer,sairakalita@gmail.com,Siya Chakraborty,Buddhism,"48/985
+Kalla Circle, Jammu-914409",M,vcontractor,"['http://www.lanka-sangha.biz/', 'https://www.johal.com/', 'http://www.keer.org/']"
+31,"94/926, Varughese Marg, Danapur 102776",1922-05-14,Aggarwal Inc,"(Decimal('59.747029'), Decimal('40.694310'))",Health physicist,tarini53@gmail.com,Madhup Doshi,Islam,"H.No. 719
+Dash Circle
+Nanded-172393",M,vaidyanirvaan,"['http://www.gour.org/', 'http://wason.org/', 'https://chokshi.biz/', 'https://www.tailor.com/']"
+32,"H.No. 24, Mallick, Bhubaneswar 436166",2005-07-29,Srivastava Ltd,"(Decimal('56.4772785'), Decimal('32.557578'))",Recycling officer,bhavinloke@gmail.com,Devansh Dugar,Sikhism,"271
+Kannan Zila
+Kozhikode 686682",M,mannatbhasin,"['https://www.sood.com/', 'http://bhardwaj.info/', 'http://kale.com/', 'http://www.agrawal-singh.com/']"
+33,"H.No. 337
+Dixit Path
+Bhatpara 296642",1968-08-08,Sengupta and Sons,"(Decimal('85.3754025'), Decimal('57.850245'))","Horticulturist, commercial",babumyra@yahoo.com,Aradhya Dara,Sikhism,"21/506, Chaudry Circle
+Durg 384052",M,khannachirag,"['http://www.ratti.com/', 'https://www.boase.com/']"
+34,"H.No. 64, Bhalla Marg, Howrah-963327",2008-08-15,Arora-Ganguly,"(Decimal('-25.643882'), Decimal('-61.266733'))",Hospital doctor,chadaritvik@yahoo.com,Vihaan Bhardwaj,Hinduism,"H.No. 84, Ray Circle, Morena 559917",M,comaramira,"['https://bala.com/', 'http://www.dhingra.net/', 'http://www.kannan.org/', 'http://char-singhal.com/']"
+35,"787
+Bains Circle
+Patiala 520296",2007-08-29,Mani-Singh,"(Decimal('50.564440'), Decimal('-140.299510'))",English as a second language teacher,emirdalal@hotmail.com,Nayantara Agrawal,Other,"H.No. 49, Sani Street, Karaikudi 214207",M,nitara43,"['http://www.bali.biz/', 'https://www.tata-dalia.com/', 'http://venkatesh.net/', 'https://www.hayre-kanda.net/']"
+36,"66/498, Choudhury, Sasaram 485664",2000-02-03,Sarkar-Rattan,"(Decimal('68.766711'), Decimal('-109.104291'))",Interpreter,kiarajohal@yahoo.com,Indrajit Dass,Buddhism,"72/348, Khalsa Path, Nangloi Jat 324315",M,saanvi48,['http://gokhale.org/']
+37,"H.No. 86
+Mann Nagar
+Nashik 485148",1970-12-21,"Shankar, Doctor and Rajagopalan","(Decimal('-39.143660'), Decimal('-148.762384'))","Editor, commissioning",ktella@hotmail.com,Navya Kothari,Other,"61/62
+Deol Nagar
+Bhagalpur 617496",F,anahi31,"['http://www.badal.info/', 'http://www.barad.info/', 'https://chakrabarti.com/']"
+38,"H.No. 519, Varghese Chowk, Bally-578944",1975-12-18,Mangal-Sahni,"(Decimal('-28.7935095'), Decimal('-66.692835'))",Trading standards officer,shaan25@hotmail.com,Prisha Grover,Islam,"27, Chaudhary, Serampore-569491",F,anya67,"['http://www.wali.com/', 'https://wason.com/', 'http://loyal.net/']"
+39,"05/23
+Andra Chowk
+Kishanganj 521316",1952-09-16,"Sen, Chacko and Rattan","(Decimal('-27.137525'), Decimal('-152.580422'))",Planning and development surveyor,uratta@gmail.com,Mahika Krish,Christianity,"H.No. 393, Master Circle
+Satara-635241",F,jivikaiyer,"['https://sandhu-korpal.com/', 'http://agarwal.com/', 'https://goel-saini.info/', 'http://www.singh-rajagopal.com/']"
+40,"25/880
+Khurana Zila
+Ludhiana-523694",2018-02-06,"Kala, Chandra and Kanda","(Decimal('-83.6965115'), Decimal('44.493768'))",Exercise physiologist,shaan00@gmail.com,Fateh Mallick,Other,"43/292, Sarma Chowk
+Aurangabad-999691",F,neysathakkar,"['http://vyas.com/', 'https://thaman.net/', 'http://ramakrishnan.biz/']"
+41,"H.No. 735, Gera Ganj, Madanapalle 995460",1999-03-22,Suresh Ltd,"(Decimal('-18.1260485'), Decimal('51.522983'))",Horticultural therapist,bansalprisha@hotmail.com,Tiya Mander,Sikhism,"16/783, Sama Path, Guwahati 589354",F,mehul36,"['http://bhargava-jha.info/', 'https://www.chauhan.org/', 'https://bora.biz/', 'http://www.barman.com/']"
+42,"963
+Sarraf Road, Orai 815632",1984-06-05,Kashyap Group,"(Decimal('41.8141045'), Decimal('-165.884333'))","Presenter, broadcasting",ivan84@yahoo.com,Kismat Reddy,Buddhism,"32, Kashyap Circle
+Panipat-837811",F,kabir93,"['http://www.kalita.com/', 'http://www.seth.info/', 'http://sami-bhandari.com/', 'http://www.mand.org/']"
+43,"H.No. 83, Wable Ganj
+Bhimavaram 990592",1949-07-29,"Dey, Konda and Jaggi","(Decimal('81.5532815'), Decimal('111.341856'))","Therapist, art",sekhondivij@yahoo.com,Anya Bassi,Buddhism,"H.No. 36
+Vig Marg
+Unnao-582718",F,chaudrysuhana,['https://karpe-date.com/']
+44,"135
+Dubey Chowk, Kurnool 318784",1944-05-07,"Reddy, Kala and Sarma","(Decimal('-59.9432515'), Decimal('-15.418018'))","Sound technician, broadcasting/film/video",wranganathan@yahoo.com,Anvi Mand,Hinduism,"H.No. 554
+Kalita Street
+Malegaon 109952",M,dishanisandhu,"['https://www.contractor.com/', 'https://www.dara.com/']"
+45,"27/85
+Soni Zila, Bokaro 617418",1960-02-20,"Gill, Subramaniam and Desai","(Decimal('31.786315'), Decimal('-162.673518'))","Teacher, secondary school",tailoremir@yahoo.com,Jivika Chaudry,Jainism,"15/04, Ram, Katihar 455376",M,mbatta,"['https://wason.com/', 'https://www.sidhu-gola.net/']"
+46,"619, Rana Marg
+Siwan 335111",1970-12-14,Shankar LLC,"(Decimal('14.112387'), Decimal('-126.471850'))","Administrator, Civil Service",borrasaira@gmail.com,Vanya Ghosh,Hinduism,"H.No. 399, Sridhar Road, Srinagar 797471",M,gopalmiraan,['https://www.viswanathan-mangat.com/']
+47,"25, Chatterjee Chowk, Alwar-859759",1991-11-14,Bose Group,"(Decimal('53.7958115'), Decimal('-179.314208'))","Lighting technician, broadcasting/film/video",gollaira@yahoo.com,Sahil Arya,Islam,"788, Sangha Road, Dehradun-602289",M,jhashayak,"['https://www.gaba.com/', 'http://chahal.biz/', 'https://www.ahuja.biz/', 'https://www.sha-sahota.com/']"
+48,"64/79
+Basak Marg, Ulhasnagar-953452",2013-03-12,Dar LLC,"(Decimal('-50.6283445'), Decimal('131.096681'))",Mental health nurse,lakshit07@gmail.com,Ivana Bhandari,Buddhism,"H.No. 07, Kanda Zila, Gwalior 509127",F,anahita00,"['http://handa-sahni.com/', 'http://kanda-yohannan.com/']"
+49,"71/50
+Ben Road
+Aurangabad 051637",1941-03-14,"Dara, Dar and Bansal","(Decimal('50.597519'), Decimal('-56.859167'))",Mechanical engineer,takjayesh@hotmail.com,Tarini Maharaj,Hinduism,"H.No. 92
+Dugar Road, Phagwara 387150",M,navya32,['http://raman.net/']
+50,"45/25, Sinha Path
+Bettiah 565197",1992-06-04,Kapadia-Shenoy,"(Decimal('-41.8975045'), Decimal('108.827369'))",Arts development officer,jtalwar@gmail.com,Navya Chandra,Christianity,"H.No. 01
+Barman Circle
+Bokaro 227399",F,waliadira,['https://venkatesh.org/']
+51,"H.No. 607
+Buch Marg, Jaipur-204733",1908-03-12,"Mannan, Dhawan and Saxena","(Decimal('22.4000625'), Decimal('157.077928'))",Call centre manager,navya58@gmail.com,Diya Gupta,Hinduism,"42/885
+Grewal
+Anantapuram-235483",M,abassi,"['https://www.ramakrishnan.biz/', 'http://kumar.com/']"
+52,"H.No. 56, Vora Marg, Ahmedabad-211305",1936-01-22,"Yogi, Wason and Badal","(Decimal('37.0836105'), Decimal('155.740463'))",Office manager,kannansahil@hotmail.com,Samar Agrawal,Other,"55, Thaman Nagar, Chapra-773071",M,daveneysa,"['https://kari-sen.info/', 'https://kalita.com/']"
+53,"H.No. 92
+Bora Zila, Kadapa-659039",1974-04-03,Kar LLC,"(Decimal('17.123176'), Decimal('52.375155'))",English as a foreign language teacher,mishareddy@hotmail.com,Anaya Hegde,Christianity,"H.No. 54, Loyal Road, Mira-Bhayandar 193603",M,sumer22,['http://gera.biz/']
+54,"07/046, Som Nagar
+Hubli–Dharwad 369363",1935-11-10,Manne Ltd,"(Decimal('-43.886430'), Decimal('-34.151454'))",Software engineer,gwali@gmail.com,Samarth Rama,Sikhism,"H.No. 823, Ramesh Zila, Tinsukia 691972",F,draman,['http://acharya.biz/']
+55,"00/54, Kumer Ganj
+Panihati-350721",1998-01-17,"Bakshi, Desai and Khare","(Decimal('74.526197'), Decimal('-135.365333'))",Immigration officer,lgara@yahoo.com,Gatik Mannan,Jainism,"84/460
+Doshi Zila, Bulandshahr 933502",F,nbains,['https://dey.com/']
+56,"05/87, Cheema Road, Arrah-439887",1994-01-28,Lad LLC,"(Decimal('57.1934215'), Decimal('-87.369804'))",Fitness centre manager,gshanker@yahoo.com,Miraya Iyengar,Christianity,"22
+Konda Road
+Parbhani-866764",M,amirasodhi,"['http://www.aurora.net/', 'http://saxena.com/']"
+57,"16/61, Thaman Marg
+Kumbakonam 881068",1995-01-01,Upadhyay and Sons,"(Decimal('34.895550'), Decimal('37.672911'))",Science writer,amani25@yahoo.com,Krish Bhavsar,Jainism,"25, Hora Street
+Coimbatore-240967",M,sdhawan,['https://choudhury.com/']
+58,"H.No. 43
+Kalita Path
+Jamshedpur 625420",1997-10-01,Wadhwa and Sons,"(Decimal('75.7208265'), Decimal('-103.048317'))",Exhibition designer,reneekata@gmail.com,Ayesha Bahri,Jainism,"17/727
+Sangha Path, Siliguri 289876",M,dateshamik,['http://www.kade-devan.org/']
+59,"H.No. 09
+Mane Circle, Pallavaram-710551",1915-08-07,Amble-Chhabra,"(Decimal('72.595712'), Decimal('139.665076'))","Programmer, systems",manikyatandon@hotmail.com,Hiran Ratti,Jainism,"55/956
+Tailor Nagar
+Ozhukarai 121997",M,proy,"['https://chauhan.com/', 'http://www.seth.com/', 'http://suresh.biz/']"
+60,"116, Ramaswamy Street, Chinsurah-424348",1975-01-05,Madan-Bhatia,"(Decimal('-20.792101'), Decimal('-29.861814'))",Medical technical officer,jhanvivala@yahoo.com,Zara Chandran,Sikhism,"447, Khatri Street, Munger-233128",M,tsharaf,['http://grover.org/']
+61,"39/727, Wable
+Bhopal 663092",2009-08-16,Chadha-Kata,"(Decimal('-25.988851'), Decimal('115.792928'))",Mudlogger,yvenkataraman@yahoo.com,Armaan Kumar,Hinduism,"18, Char Street
+Ambala 355590",F,badalaaryahi,['https://chadha-viswanathan.info/']
+62,"89, Loke Zila
+Rourkela 244777",1968-06-26,"Singhal, Uppal and Rana","(Decimal('-6.264230'), Decimal('-88.930148'))",IT trainer,tanyabhargava@gmail.com,Ishaan Rajan,Islam,"91/884, Tara Street, Anand 548420",F,anaya32,"['https://www.tandon.com/', 'https://www.seth.com/', 'https://www.shan.com/', 'http://ram.com/']"
+63,"14, Kar Marg, Meerut-510663",1973-07-20,Virk and Sons,"(Decimal('-2.639546'), Decimal('101.170126'))","Engineer, technical sales",cseth@yahoo.com,Prerak Kuruvilla,Islam,"87
+Acharya Marg, Ahmednagar 505457",F,inaaya-44,"['http://www.kunda.com/', 'http://www.som-loke.com/']"
+64,"08/156, Shanker Marg, Aurangabad-104375",1937-12-16,"Shankar, Dhar and Mane","(Decimal('-20.1217845'), Decimal('-13.323889'))",Herbalist,ncheema@gmail.com,Vihaan Lalla,Jainism,"40/61, Bahl Circle
+Lucknow 907650",M,egara,"['http://www.doshi.com/', 'http://reddy.com/', 'http://kunda.com/', 'https://mahajan.net/']"
+65,"H.No. 99
+Basu, Bokaro-006034",2009-07-06,"Vig, Savant and Tata","(Decimal('-13.431849'), Decimal('-123.692242'))",Forest/woodland manager,kaira47@hotmail.com,Arhaan Balay,Sikhism,"H.No. 631
+Choudhary Street
+Adoni 969237",F,tiwaridivij,['http://anand.org/']
+66,"H.No. 268
+Hayre Ganj
+Gopalpur 821368",1970-05-22,Gupta Group,"(Decimal('-13.476752'), Decimal('100.055341'))","Engineer, civil (contracting)",trisha39@hotmail.com,Anaya Sankaran,Buddhism,"04, Kale Chowk
+Gwalior-346737",F,ratitailor,['https://hari.com/']
+67,"63/15, Baria Road
+Adoni 137370",2021-01-27,Rastogi-Mander,"(Decimal('21.748005'), Decimal('-53.776340'))",Applications developer,daraeva@yahoo.com,Jayan Goda,Other,"H.No. 957
+Sharma Chowk, Bhiwandi 701204",M,tiyasaha,"['https://www.lata-deol.info/', 'http://dhar.com/']"
+68,"H.No. 22, Hora, Sikar-518809",2005-12-18,Konda Inc,"(Decimal('39.913125'), Decimal('-105.985497'))","Teacher, secondary school",balaheer@gmail.com,Hiran Bal,Other,"23/42
+Sarna Circle
+Agra 517650",F,yakshit97,"['http://krishnamurthy-ramanathan.com/', 'http://kala.com/', 'https://www.divan.com/', 'http://www.kapadia.net/']"
+69,"72/481, Koshy Path
+Agra-475089",1996-04-06,Saxena Ltd,"(Decimal('-38.8146895'), Decimal('-14.815317'))",Chief Financial Officer,mishti76@hotmail.com,Onkar Borra,Buddhism,"H.No. 13
+Kapur Road, Madurai 354016",M,hunarsandal,['https://www.singhal.com/']
+70,"H.No. 331, Bhalla
+Chinsurah-576611",1949-05-05,Varughese-Deshpande,"(Decimal('-33.743772'), Decimal('-140.045412'))",Careers adviser,dharzoya@yahoo.com,Miraan Sridhar,Sikhism,"533, Sampath Marg
+Gudivada-568994",M,sarmakeya,"['https://chacko.com/', 'http://www.karan.com/', 'https://www.bakshi.com/', 'http://kunda-luthra.com/']"
+71,"948, Balay Marg
+Bettiah 270535",1998-03-20,"Sane, Johal and Lall","(Decimal('13.669338'), Decimal('10.626479'))",Seismic interpreter,arnav09@hotmail.com,Suhana Solanki,Hinduism,"17/978
+Contractor Street, Saharsa 733984",F,suhana90,"['https://kunda-gaba.info/', 'http://luthra-loyal.org/', 'https://toor.net/']"
+72,"757, Chaudhary Ganj, Gangtok-418799",1956-10-04,Talwar Ltd,"(Decimal('-71.335702'), Decimal('-172.296481'))",Systems analyst,kantneelofar@gmail.com,Krish Mammen,Jainism,"H.No. 83, Lanka Circle
+Singrauli 868140",M,ivanabhasin,['http://www.gokhale.com/']
+73,"92, Deshpande Street, Udupi-133722",1972-11-13,Bora-Dey,"(Decimal('43.5368475'), Decimal('81.102524'))","Geologist, engineering",randhawacharvi@yahoo.com,Rania Chadha,Christianity,"H.No. 363
+Hans Nagar
+Ballia-158123",M,ndash,"['https://wadhwa.com/', 'http://doctor.com/', 'https://lanka-chander.net/', 'http://virk-hegde.org/']"
+74,"H.No. 065
+Mahajan Marg, Maheshtala-193631",1939-12-25,Manda LLC,"(Decimal('54.799454'), Decimal('-10.630602'))",Retail banker,golastuvan@yahoo.com,Aarav Dhar,Christianity,"73, Barad Chowk, Gorakhpur 273657",M,indranil03,"['https://kari.info/', 'http://www.vig.com/', 'https://www.vasa-butala.org/', 'http://www.ramanathan.com/']"
+75,"882
+Anand
+Amritsar-832296",1967-07-07,"Sarma, Bobal and Barman","(Decimal('-16.2649325'), Decimal('127.776525'))","Social research officer, government",amanihanda@yahoo.com,Yashvi Khatri,Jainism,"03/929
+Mani Ganj, Serampore 237672",M,charviramakrishnan,"['https://www.dutt-reddy.com/', 'https://sami.biz/', 'http://shanker.org/']"
+76,"674, Desai Nagar
+Bardhaman 318361",1984-02-22,Sundaram and Sons,"(Decimal('39.3583125'), Decimal('85.270267'))",Child psychotherapist,tailorbhamini@yahoo.com,Darshit Chahal,Christianity,"00/03
+Bhat Marg, Gangtok-571391",M,amani68,['http://www.kamdar.com/']
+77,"34/85
+Bora Nagar
+Nizamabad 368838",1963-12-01,Kar-Mahal,"(Decimal('-4.928726'), Decimal('83.928422'))",Retail buyer,ygill@hotmail.com,Dharmajan Samra,Christianity,"H.No. 165, Madan Path
+Ozhukarai-855169",F,dsen,['http://thaker.info/']
+78,"16
+Barad Chowk
+Alappuzha 577557",1960-07-11,Dutt Group,"(Decimal('-54.370716'), Decimal('87.171639'))",Market researcher,brahmbhattvanya@yahoo.com,Raghav Zachariah,Hinduism,"86, Lad Road
+Noida 297758",F,urvi49,['https://ganesan.biz/']
+79,"62
+Chhabra Chowk
+Bhalswa Jahangir Pur 765827",1954-06-23,Bora Group,"(Decimal('36.0862155'), Decimal('-145.740234'))","Therapist, drama",xrama@yahoo.com,Rohan Ghose,Other,"68/113, Bala Nagar
+Tirupati 601269",M,mandalisha,"['http://bumb.org/', 'http://dugar.com/', 'http://www.bhatt.com/']"
+80,"H.No. 267, Walia, Shimla-591861",1980-11-15,Kaur Ltd,"(Decimal('35.845777'), Decimal('-81.542397'))",Accommodation manager,riaansoman@hotmail.com,Ojas Khosla,Hinduism,"16
+Grewal
+Kamarhati 761167",F,yasmin08,"['http://www.sheth.com/', 'http://dixit-devi.biz/']"
+81,"H.No. 05
+Sengupta Zila, Solapur 315739",1941-08-25,Kothari-Deep,"(Decimal('55.064964'), Decimal('-91.166274'))",Chartered accountant,hunar96@gmail.com,Manjari Sawhney,Christianity,"H.No. 25, Khalsa Street
+Orai-824695",F,hazelsolanki,"['https://viswanathan.org/', 'http://www.loke.com/', 'https://www.bains-jayaraman.com/']"
+82,"43/17, Sood Marg
+Tumkur-510438",1944-10-17,Khare-Mannan,"(Decimal('86.561355'), Decimal('-136.289475'))",Early years teacher,tushar15@gmail.com,Divij Kala,Sikhism,"53/630
+Kaur Nagar, Sangli-Miraj & Kupwad 223912",F,kimaya47,"['http://bedi.org/', 'https://www.lad.com/']"
+83,"H.No. 10, Joshi Path, Buxar-266757",1943-05-06,"Kalla, Sachdeva and Choudhry","(Decimal('-45.579980'), Decimal('7.781800'))","Designer, exhibition/display",bkara@hotmail.com,Kiara Boase,Christianity,"65/85, Deshmukh Zila
+Chandigarh 470364",M,riyakar,"['http://www.agate-basu.net/', 'http://bail-gaba.com/', 'https://www.deshmukh.org/']"
+84,"97
+Gopal Street, Gangtok 487760",1916-03-27,Devi-Goyal,"(Decimal('-46.506528'), Decimal('19.766045'))",Health physicist,bhallaprerak@yahoo.com,Ivana Tailor,Other,"83/36, Majumdar, Ahmedabad 775957",F,uppalrhea,"['https://www.amble.info/', 'https://seth.com/', 'http://www.sodhi.com/', 'http://baria.org/']"
+85,"021
+Sura Nagar
+Belgaum-372905",1984-10-13,Rajagopal and Sons,"(Decimal('-9.9909335'), Decimal('-98.479441'))",Town planner,baraldrishya@yahoo.com,Shaan Das,Christianity,"477, Garg Marg
+Anantapuram 297276",M,kohlikanav,"['https://www.dhar-taneja.com/', 'http://bains-rao.com/', 'https://tata-mangat.com/', 'http://www.ben-brahmbhatt.biz/']"
+86,"824, Jaggi Road, Ozhukarai-072828",1954-08-18,Dixit-Ramachandran,"(Decimal('-56.8584485'), Decimal('-50.958084'))","Research officer, trade union",rattiamani@hotmail.com,Samarth Ravi,Islam,"H.No. 39, Chauhan Road, Adoni-369711",F,trishaluthra,"['https://www.bumb.net/', 'http://www.shere-yogi.net/']"
+87,"68, Bhatti Nagar
+Yamunanagar-163879",1938-03-01,Thaman PLC,"(Decimal('-2.827715'), Decimal('-8.994972'))",Clinical biochemist,nirviramesh@hotmail.com,Shanaya Bhatia,Sikhism,"H.No. 08, Mane Street
+Danapur 170614",F,nkara,['http://varty.com/']
+88,"H.No. 39, Cherian Chowk
+Orai 732316",1972-08-07,"Chopra, Thakkar and Gera","(Decimal('54.4749165'), Decimal('-134.018304'))",Landscape architect,hridaan39@gmail.com,Shlok Bandi,Sikhism,"H.No. 343, Loke Marg
+Secunderabad-195521",M,bahlurvi,"['http://sibal.com/', 'http://thaman.org/', 'https://www.bath.com/']"
+89,"18/553, Tripathi Street
+Thanjavur-529936",1971-01-03,Varughese LLC,"(Decimal('-45.9736805'), Decimal('-48.995099'))",Personal assistant,omallick@yahoo.com,Dhanuk Samra,Jainism,"62/26, Manda Zila, Sri Ganganagar-945340",M,armaan60,['http://sarma.info/']
+90,"74, Kari Circle
+Raurkela Industrial Township 756170",1939-12-23,"Bir, Konda and Dube","(Decimal('-89.523082'), Decimal('58.852700'))",Oncologist,balaamani@yahoo.com,Suhana Chokshi,Jainism,"H.No. 01
+Ratti Zila
+Howrah-421544",F,jayanshenoy,['http://gaba.info/']
+91,"19/67
+Khosla Road
+Thoothukudi 811866",1999-07-13,Mander Group,"(Decimal('-37.7777405'), Decimal('-58.709359'))","Horticulturist, commercial",nrajan@gmail.com,Tejas Kata,Hinduism,"75/773
+Subramanian Marg, Machilipatnam-662811",M,halderindrajit,"['http://www.rama-aurora.net/', 'https://jha-jaggi.com/', 'https://loyal-swaminathan.org/']"
+92,"H.No. 39, Kumar Zila
+Gopalpur 955081",1992-06-11,"Swaminathan, Kade and Hayer","(Decimal('-56.604569'), Decimal('-131.902786'))","Accountant, chartered certified",kalevaibhav@gmail.com,Yuvaan Bajwa,Other,"636, Thakur Marg, Madhyamgram-018679",F,mramaswamy,"['https://dalia.com/', 'http://www.dube.info/', 'http://www.trivedi-cheema.com/', 'http://chowdhury-lala.com/']"
+93,"H.No. 239
+Dhar Zila
+Ambattur-448532",1921-09-01,Sachdeva Ltd,"(Decimal('-73.069598'), Decimal('42.276074'))","Presenter, broadcasting",xkapur@yahoo.com,Shalv Arya,Christianity,"998
+Hans Circle, Rewa 564751",F,odass,"['http://www.dara.org/', 'http://gupta.com/', 'https://goel.com/']"
+94,"53/815
+Bahri Nagar, Burhanpur 047847",1945-02-13,Saran Ltd,"(Decimal('89.2359065'), Decimal('27.321725'))",Chartered legal executive (England and Wales),aniruddhgoswami@yahoo.com,Ranbir Sankaran,Sikhism,"18/738
+Das Ganj
+Ongole 160706",M,gbera,"['http://vala.biz/', 'http://www.arora-chawla.com/', 'https://www.ratti.com/', 'http://www.handa-yohannan.com/']"
+95,"77/318, Savant Circle, Chinsurah 177798",1925-09-08,Batta PLC,"(Decimal('55.037122'), Decimal('-125.062276'))",Technical author,ghoshkiaan@hotmail.com,Vaibhav Mahajan,Other,"58/257, Devan Chowk
+Gaya 813620",F,reyanshvala,['http://www.sandal.com/']
+96,"H.No. 18, Dani Zila, Nagaon 184497",1960-02-04,Malhotra Inc,"(Decimal('33.011388'), Decimal('-148.656392'))",Advice worker,tara26@yahoo.com,Tushar Garde,Islam,"28/58, Mangat Ganj
+Madurai-512239",M,subramaniantiya,"['https://bakshi-saxena.com/', 'http://www.walia.com/', 'http://kapadia.com/']"
+97,"794, Reddy Circle
+South Dumdum-130472",1924-10-16,Devan LLC,"(Decimal('88.572948'), Decimal('176.794498'))",Manufacturing engineer,purab68@hotmail.com,Anya Dixit,Other,"H.No. 213
+Bhattacharyya Nagar, Serampore-732741",F,yuvraj-chada,"['http://www.kaur.org/', 'https://www.deshmukh.com/']"
+98,"35/950, Singh, Mahbubnagar 115153",1934-09-11,"Gokhale, Jayaraman and Raj","(Decimal('-14.3626845'), Decimal('-44.971769'))",Barrister,vgarg@gmail.com,Armaan Grewal,Islam,"42
+Halder Street, Tumkur 495794",F,anahi44,"['https://behl.net/', 'https://www.dutt.net/', 'https://www.halder.net/', 'https://www.tella.net/']"
+99,"H.No. 458
+Biswas Road
+Ludhiana 014649",2014-05-22,"Sankaran, Atwal and Jayaraman","(Decimal('-68.3752685'), Decimal('81.893670'))",Retail buyer,yuvraj-91@gmail.com,Nakul Walla,Islam,"H.No. 71, Tailor Ganj, Tiruvottiyur 385815",F,amblenitara,"['http://www.dey.info/', 'https://www.rama.com/', 'https://trivedi-barad.com/']"
