@@ -126,7 +126,7 @@ cheating = ['Cheating is never ok!', 'It\'s important to try to be faithful', 'B
 ideal_wedding = [ 'Ceremony or event, at church or venue!', 'Courthouse would suffice' , 'Whatever my partner decides', 'Haven’t thought about it!']
 family_and_friends_opinion_about_you = [ 'Always up for anything fun', 'Always optimistic', 'Thinks a lot - and seriously - about life' , 'Always happy and in a good mood', 'Is a bit of a daydreamer', 'Deals with problems in an objective and thoughtful manner', 'Always finds a good solution for herself, even in unpleasant situations', 'Calm and level-headed', 'Actively participates in everything']
 what_your_partner_likes_about_you = ['Cheerful', 'Humorous', 'Uncomplicated', 'Natural', 'Honest', 'Serious', 'Adaptable', 'Empathetic', 'Affectionate', 'Spirited', 'Reserved', 'Frugal', 'Domestic', 'Nature-loving', 'Optimistic', 'Sporty', 'Capable', 'reliable', 'Fond of children', 'Self-disciplined', 'attractive', 'warm-hearted', 'educated', 'ethical', 'well-mannered', 'thoughtful', 'independent', 'tolerant', 'spontaneous', 'self-assured', 'imaginative', 'career-driven', 'calm', 'understanding']
-your_values_family_frriends = ['My family\'s approval of my choice of partner', 'My friends being pleased about my choice of partner', 'I don’t care about others opinions', 'My partner\'s family liking me']
+your_values_family_friends = ['My family\'s approval of my choice of partner', 'My friends being pleased about my choice of partner', 'I don’t care about others opinions', 'My partner\'s family liking me']
 alcohol = ['Yes, at mealtimes or to relax' , 'Socially' , 'Never']
 smoke = [ 'Yes', 'Socially' , 'No']
 hobbies = ['Reading', 'Watching television', 'Relaxing', 'Going out', 'Watching movies', 'Playing board games', 'Surfing the internet', 'Volunteering', 'Hanging out with friends', 'Spending time with my family', 'Going to the theater / cinema', 'ballet  or opera', 'Listening to music', 'Sports', 'Dancing', 'Photography', 'Film/Video', 'Art', 'Playing instruments', 'Cooking', 'Crafts', 'Pottery', 'Carpentry/DIY', 'Collecting', 'None']
@@ -228,7 +228,7 @@ newColumn(love_sickness_reaction, 'How do you react to lovesickness?')
 newColumn(cheating, 'What do you think about cheating in a relationship? ')
 newColumn(ideal_wedding, 'Which statement best represents your ideal wedding? ')
 newColumn(family_and_friends_opinion_about_you, 'Which of the following do your friends and family think about you? ')
-newColumn(your_values_family_frriends, 'Imagine your family and friends: Which of the following reactions about your choice of partner would you value the most?')
+newColumn(your_values_family_friends, 'Imagine your family and friends: Which of the following reactions about your choice of partner would you value the most?')
 newColumn(alcohol, 'Do you drink alcohol?')
 newColumn(smoke, 'Do you smoke?')
 newColumn(hobbies, 'What do you like to do in your free time?')
