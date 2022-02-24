@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs/js/application-6c5c3144ae87acba87ea.js",
+  "application.js.map": "/packs/js/application-6c5c3144ae87acba87ea.js.map",
+  "draggable-piechart-jquery.js": "/packs/js/draggable-piechart-jquery-496fdc4b7199e0eaf0c5.js",
+  "draggable-piechart-jquery.js.map": "/packs/js/draggable-piechart-jquery-496fdc4b7199e0eaf0c5.js.map",
+  "draggable-piechart.js": "/packs/js/draggable-piechart-8e9d0cf45fe7df709e56.js",
+  "draggable-piechart.js.map": "/packs/js/draggable-piechart-8e9d0cf45fe7df709e56.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-6c5c3144ae87acba87ea.js"
+      ],
+      "js.map": [
+        "/packs/js/application-6c5c3144ae87acba87ea.js.map"
+      ]
+    },
+    "draggable-piechart-jquery": {
+      "js": [
+        "/packs/js/draggable-piechart-jquery-496fdc4b7199e0eaf0c5.js"
+      ],
+      "js.map": [
+        "/packs/js/draggable-piechart-jquery-496fdc4b7199e0eaf0c5.js.map"
+      ]
+    },
+    "draggable-piechart": {
+      "js": [
+        "/packs/js/draggable-piechart-8e9d0cf45fe7df709e56.js"
+      ],
+      "js.map": [
+        "/packs/js/draggable-piechart-8e9d0cf45fe7df709e56.js.map"
+      ]
+    }
+  }
+}

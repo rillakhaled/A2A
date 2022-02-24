@@ -1,0 +1,268 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Pie Chart Test</h1>
+
+<%= javascript_pack_tag 'draggable-piechart-jquery' %>
+    <div>
+        <canvas id="piechart" width="400" height="400"></canvas>
+
+        <table id="proportions-table">
+            <tbody>
+                <tr>
+                    <td>
+                        <var>23%</var>
+                    </td>
+                    <td>
+                        <var>12%</var>
+                    </td>
+                    <td>
+                        <var>16%</var>
+                    </td>
+                    <td>
+                        <var>34%</var>
+                    </td>
+                    <td>
+                        <var>15%</var>
+                    </td>
+                </tr>
+                <br>
+                <tr>
+                    <th>Culture</th>
+                    <th>FR</th>
+                    <th>Lifestyle</th>
+                    <th>Kundali</th>
+                    <th>Location</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+<h1>Profiles</h1>
+
+<div class="container mx-auto">
+  <div class="card mx-auto">
+    <br>
+
+    <span id="pieSortSpan"><% pieSort(3, 1, 1, 1, 1) %></span>
+    <%= render 'profile_card_wide' %>
+    <br>
+  </div>
+</div>
+<br>
+<br>
+
+<h1>Table</h1>
+<table>
+  <tr>
+    <th>Name</th> 
+    <th><%= link_to "Culture Score", :sort => "cultureScore"%> </th>  
+    <th><%= link_to "FR Score", :sort => "facialScore"%> </th>
+    <th><%= link_to "Lifestyle Score", :sort => "lifestyleScore"%> </th>
+    <th><%= link_to "Kundali Score", :sort => "kundaliScore"%> </th>
+    <th><%= link_to "Location Score", :sort => "locationScore"%> </th>   
+  </tr>
+ <% @profiles.each do |profile| %>
+  <tr>
+    <td><%=profile.name%></td>
+    <td><%=profile.cultureScore%></td>
+    <td><%=profile.facialScore%></td>
+    <td><%=profile.lifestyleScore%></td>
+    <td><%=profile.kundaliScore%></td>
+    <td><%=profile.locationScore%></td>
+  </tr>
+  <% end %>
+ </table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Admin Controls</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @profiles.each do |profile| %>
+      <tr>
+        <td><%= profile.name %></td>
+        <td><%= link_to 'Show', profile %></td>
+        <td><%= link_to 'Edit', edit_profile_path(profile) %></td>
+        <td><%= link_to 'Destroy', profile, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Profile', new_profile_path %>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            user-select: none;
+            display: inline;
+        }
+
+        .color-label {
+            width: 10px;
+            height: 10px;
+            background-color: aqua;
+        }
+
+        td {
+            width: 150px;
+        }
+
+        var {
+            width: 50px;
+            display: inline-block;
+            align-items: center;
+        }
+    </style>
+
+    <script>
+        (function () {
+
+            //IE9+ http://youmightnotneedjquery.com/
+            function ready(fn) {
+                if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+                    fn();
+                } else {
+                    document.addEventListener('DOMContentLoaded', fn);
+                }
+            }
+
+            ready(setupPieChart);
+
+
+            function setupPieChart() {
+
+                let labelsArray = ['Culture', 'Facial Recognition', 'Lifestyle', 'Kundali', 'Location'];
+                var dimensions = labelsArray;
+                let colorsArray = ['#ff99ee', '#11aaff', '#ffff00', '#00ff99', '#bb00ee'];
+                var equalProportions = 20;
+                var proportions = dimensions.map(function (d, i) {
+                    return {
+                        label: d,
+                        proportion: equalProportions,
+                        collapsed: false,
+                        format: {
+                            color: colorsArray[i], label: d.charAt(0).toUpperCase() + d.slice(1), // capitalise first letter
+                        }
+                    }
+                });
+
+                var setup = {
+                    canvas: document.getElementById('piechart'),
+                    radius: 0.9,
+                    collapsing: false,
+                    proportions: proportions,
+                    drawSegment: drawSegmentOutlineOnly,
+                    onchange: onPieChartChange
+                };
+
+                var newPie = new DraggablePiechart(setup);
+
+                function drawSegmentOutlineOnly(context, piechart, centerX, centerY, radius, startingAngle, arcSize, format, collapsed) {
+
+                    if (collapsed) { return; }
+
+                    // Draw segment
+                    context.save();
+                    var endingAngle = startingAngle + arcSize;
+                    context.beginPath();
+                    context.moveTo(centerX, centerY);
+                    context.arc(centerX, centerY, radius, startingAngle, endingAngle, false);
+                    context.closePath();
+
+                    context.fillStyle = format.color;
+                    context.fill();
+                    context.stroke();
+                    context.restore();
+
+                    // Draw label on top
+                    context.save();
+                    context.translate(centerX, centerY);
+                    context.rotate(startingAngle);
+
+                    var fontSize = Math.floor(context.canvas.height / 40);
+                    var dx = radius - fontSize;
+                    var dy = centerY / 10;
+
+                    context.textAlign = "right";
+                    context.font = fontSize + "pt Fira Code";
+                    context.fillText(format.label, dx, dy);
+                    context.restore();
+                }
+
+                function onPieChartChange(piechart) {
+
+                    var table = document.getElementById('proportions-table');
+                    var table2 = document.getElementById('proportions-table2');
+                    var percentages = piechart.getAllSliceSizePercentages();
+
+                    var labelsRow = '<tr>';
+                    var propsRow = '<tr>';
+                    for (var i = 0; i < proportions.length; i += 1) {
+                        labelsRow += '<th>' + proportions[i].format.label + '</th>';
+                        
+                        var v = '<var>' + percentages[i].toFixed(0) + '%</var>';
+                        var plus = '<div id="plu-' + dimensions[i] + '" class="adjust-button" data-i="' + i + '" data-d="-1"></div>';
+                        var minus = '<div id="min-' + dimensions[i] + '" class="adjust-button" data-i="' + i + '" data-d="1"></div>';
+                        propsRow += '<td>' + v + plus + minus + '</td>';
+                        var updatePercent = percentages[i].toFixed(0);
+                        updateTable2(updatePercent);
+                    }
+
+                    function updateTable2(v) {
+                        console.log(i, " ", v);
+                        var v = '<var>' + percentages[i].toFixed(0) + '%</var>';
+
+                        // var c = v;
+                        // if (c < 20) {
+                        //     var ps = '<span id="pieSortSpan"><%= pieSort(1, 1, 1, 1, 1) %> </span>';
+                        // } else if (c >= 20 && c < 40) {
+                        //     var ps = '<span id="pieSortSpan"><%= pieSort(2, 1, 1, 1, 1) %> </span>';
+                        // } else if (c >= 40 && c < 60) {
+                        //     var ps = '<span id="pieSortSpan"><%= pieSort(3, 1, 1, 1, 1) %> </span>';
+                        // } else if (c >= 60 && c < 80) {
+                        //     var ps = '<span id="pieSortSpan"><%= pieSort(4, 1, 1, 1, 1) %> </span>';
+                        // } else if (c >= 80 && c < 1000) {
+                        //     var ps = '<span id="pieSortSpan"><%= pieSort(5, 1, 1, 1, 1) %> </span>';
+                        // }
+                        
+                    }
+
+                    $('#pieSortSpan').html('<%escape_javascript(pieSort(3, 1, 1, 1, 1)) %>');
+
+                    labelsRow += '</tr>';
+                    propsRow += '</tr>';
+                    table.innerHTML = labelsRow + propsRow;
+                    var adjust = document.getElementsByClassName("adjust-button");
+
+                    function adjustClick(e) {
+                        var i = this.getAttribute('data-i');
+                        var d = this.getAttribute('data-d');
+                        piechart.moveAngle(i, (d * 0.1));
+                    }
+
+                    for (i = 0; i < adjust.length; i++) {
+                        adjust[i].addEventListener('click', adjustClick);
+                    }
+                }
+            }
+        })();
+
+    </script>

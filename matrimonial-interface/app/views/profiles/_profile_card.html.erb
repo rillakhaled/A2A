@@ -1,0 +1,11 @@
+<% @profiles.each do |profile| %>
+  <div class="card mx-auto" style="min-width: 15rem; max-width: 15rem;">
+    <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"><%= profile.name %></h5>
+      <p class="card-text">Age: <%= profile.age %></p>
+      <p class="card-text">Location: <%= profile.location %></p>
+      <%= link_to "View", profile, class: "btn btn-primary" %>
+    </div>
+  </div>
+<% end %>

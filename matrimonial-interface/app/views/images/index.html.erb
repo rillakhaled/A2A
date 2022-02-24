@@ -1,0 +1,40 @@
+<%= stylesheet_link_tag "style_Index" %>
+
+<p id="notice"><%= notice %></p>
+
+<h2>Welcome to the<h2>
+<h1>Matrimonial Interface</h1>
+<br>
+<%
+=begin%>
+ <table> 
+<%
+=end%>
+  <%
+=begin%>
+ <tbody class="user-grid"> 
+<%
+=end%>
+  <div class="user-grid">
+    <% @images.each do |image| %>
+        <%= link_to image_tag(image.file.variant(resize_to_limit: [nil, 150])), image %>
+    <% end %>
+    </div>
+  <%
+=begin%>
+ </tbody> 
+<%
+=end%>
+<%
+=begin%>
+ </table> 
+<%
+=end%>
+
+<br>
+
+<%
+=begin%>
+ <%= link_to 'New Image', new_image_path %> 
+<%
+=end%>

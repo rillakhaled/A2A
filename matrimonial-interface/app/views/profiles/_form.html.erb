@@ -1,0 +1,64 @@
+<%= form_with model: @profile do |form| %>
+  <% if profile.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(profile.errors.count, "error") %> prohibited this profile from being saved:</h2>
+
+      <ul>
+        <% profile.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :age %>
+    <%= form.number_field :age %>
+  </div>
+
+  <div class="field">
+    <%= form.label :gender %>
+    <%= form.text_field :gender %>
+  </div>
+
+  <div class="field">
+    <%= form.label :location %>
+    <%= form.text_field :location %>
+  </div>
+
+  <div class="field">
+    <%= form.label :cultureScore %>
+    <%= form.text_field :cultureScore %>
+  </div>
+
+  <div class="field">
+    <%= form.label :facialScore %>
+    <%= form.text_field :facialScore %>
+  </div>
+
+  <div class="field">
+    <%= form.label :lifestyleScore %>
+    <%= form.text_field :lifestyleScore %>
+  </div>
+
+  <div class="field">
+    <%= form.label :kundaliScore %>
+    <%= form.text_field :kundaliScore %>
+  </div>
+
+  <div class="field">
+    <%= form.label :locationScore %>
+    <%= form.text_field :locationScore %>
+  </div>
+
+<%= form.hidden_field :user_id, value: current_user.id %>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
